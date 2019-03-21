@@ -17,11 +17,12 @@ Built with the following:
 - JWT
 - Passport
 - Validator
+- Bootstrap
 - (Prettier extension on VSC for cleaner code)
 
 Site is responsive to different media sizes for the most part (almost but not completely).
 
-Acknowledgements/Shout-outs:
+Acknowledgements/Shout-Outs:
 
 - Special thanks to Pavan, Mark, & Manny at UCB Bootcamp
 - Shout out to "thenewboston" on YouTube for all the extremely helpful videos I consumed over the many months of this course

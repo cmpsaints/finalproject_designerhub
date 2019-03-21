@@ -33,7 +33,7 @@ class Landing extends Component {
                 <p className="acknowledgement-style top-margin">
                   {" "}
                   <span className="">
-                    <b>Acknowledgements/Shout-outs:</b>
+                    <b>Acknowledgements/Shout-Outs:</b>
                   </span>
                   <br />- Special thanks to Pavan, Mark, & Manny at UCB Bootcamp
                   <br />- Shout out to "thenewboston" on YouTube for all the
