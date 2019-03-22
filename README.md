@@ -13,6 +13,7 @@ Built with the following:
 - React
 - Redux
 - JavaScript ES6
+- promises
 - Bcryptjs
 - JWT
 - Passport
